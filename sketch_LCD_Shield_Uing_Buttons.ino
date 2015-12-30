@@ -1,6 +1,6 @@
 
 /*---------------------------------------------------------
-ReadButtons
+ReadButtons on a 2 line 16 character LCD Shield
 Detect the button pressed
 *----------------------------------------------------------
 Define pins used and button return values
